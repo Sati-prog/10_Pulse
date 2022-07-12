@@ -1,4 +1,4 @@
-# 10_Pulse
+# Pulse
 
 Hello people!
 
